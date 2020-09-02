@@ -1,4 +1,5 @@
 /*
+    Dominick Klockeman
     TwoSum problem
     My initial solution deonstrated a brute force approach. 
 */
